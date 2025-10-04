@@ -1,0 +1,1 @@
+This project explores HR data to uncover insights that help organizations understand their workforce dynamics. Using real-world HR datasets, the goal is to build a robust, interactive dashboard that supports data-driven HR decision-making. Through the dashboard, you can explore workforce composition, turnover analysis, and performance vs. compensation.
